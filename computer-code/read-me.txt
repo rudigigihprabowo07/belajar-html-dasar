@@ -1,0 +1,5 @@
+Computer Code
+
+Sebagai programmer, kadang kita sering membuat web artikel tentang kode program
+ketika kita membuat kode program di HTML menggunakan paragraf, maka akan menyulitkan karena semua enter dan spasi akan dinormalkan oleh HTML.
+tapi kita ingin menampilkan kodenya apa adanya.
